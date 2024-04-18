@@ -1,0 +1,23 @@
+[[shard]]
+name = "Moscow"
+idx = 0
+address = "127.0.0.1:8080"
+replicas = ["127.0.0.1:8081"]
+
+[[shard]]
+name = "Minsk"
+idx = 1
+address = "127.0.0.1:8082"
+replicas = ["127.0.0.1:8083"]
+
+[[shard]]
+name = "Kiev"
+idx = 2
+address = "127.0.0.1:8084"
+replicas = ["127.0.0.1:8085"]
+
+[[shard]]
+name = "Tashkent"
+idx = 3
+address = "127.0.0.1:8086"
+replicas = ["127.0.0.1:8087"]
