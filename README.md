@@ -9,7 +9,6 @@ DistributedKVStore is a highly available and scalable key-value storage system d
 * **Static Sharding**: Uses static configurations to distribute data across several shards.
 * **Replication**: Supports data replication where each shard has a primary and one or more replicas.
 * **CRUD Operations**: Enables basic CRUD (Create, Read, Update, Delete) operations on stored key-value pairs.
-* **Fault Tolerance**: Includes mechanisms to handle node failures, maintaining continuous system operations.
 
 ## Getting Started
 
